@@ -3,7 +3,7 @@
 I am planing to make a mac OS simulator using HTML, CSS, and JavaScript 😍
 
 <h2 align="center">
-  <a href="https://mac-os-desktop-anne-tech.vercel.app/" target="_blank">Mac OS Desktop</a>
+  <a href="https://macos-simulation-suman.netlify.app/" target="_blank">Mac OS Desktop</a>
 </h2>
 
 <br/>
